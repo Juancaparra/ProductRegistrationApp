@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f4cd46-2ce8-4cb1-b6ed-23308305c564" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductRegistrationApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventario/gui/ProductRegistrationFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventario/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventario/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventario/model/ProductTableModel.java" afterDir="false" />
+    <list default="true" id="33f4cd46-2ce8-4cb1-b6ed-23308305c564" name="Changes" comment="Primer commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inventario/gui/ProductRegistrationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inventario/gui/ProductRegistrationFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inventario/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inventario/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inventario/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inventario/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inventario/model/ProductTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inventario/model/ProductTableModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Juancaparra"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Juancaparra/ProductRegistrationApp.git",
+    "accountId": "44d17b7f-5c19-49ac-8ce5-4d791db699a3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -44,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.ProductRegistrationFrame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -59,7 +66,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727781563948</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <option name="closed" value="true" />
+      <created>1727790964051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727790964051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
